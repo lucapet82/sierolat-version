@@ -1,7 +1,7 @@
 {
-  "version": "0.6.47",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.47/Sierolat-0.6.47.exe",
+  "version": "0.6.48",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.48/Sierolat-0.6.48.exe",
   "note": [
-    "Il banner dice cosa cambia, e il rilascio non aspetta piu' che tu chiuda l'app"
+    "Le rimanenze entrano nel totale, e il riepilogo conta tutti gli impianti"
   ]
 }
