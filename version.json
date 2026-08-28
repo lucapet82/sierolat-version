@@ -1,7 +1,7 @@
 {
-  "version": "0.6.60",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.60/Sierolat-0.6.60.exe",
+  "version": "0.6.61",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.61/Sierolat-0.6.61.exe",
   "note": [
-    "Rimediata la 0.6.58: la casella della portata era sparita sotto l'etichetta"
+    "Una richiesta del cliente si puo' tenere dentro senza contarla"
   ]
 }
