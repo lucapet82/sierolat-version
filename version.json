@@ -1,7 +1,7 @@
 {
-  "version": "0.6.48",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.48/Sierolat-0.6.48.exe",
+  "version": "0.6.49",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.49/Sierolat-0.6.49.exe",
   "note": [
-    "Le rimanenze entrano nel totale, e il riepilogo conta tutti gli impianti"
+    "La scheda dei parametri economici non c'e' piu', e i fogli portano un nome"
   ]
 }
