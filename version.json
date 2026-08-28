@@ -1,7 +1,7 @@
 {
-  "version": "0.6.52",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.52/Sierolat-0.6.52.exe",
+  "version": "0.6.53",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.53/Sierolat-0.6.53.exe",
   "note": [
-    "Il foglio dei reparti mette il fatto accanto al previsto"
+    "Il cliente si sceglie da una tendina, non si riscrive ogni volta"
   ]
 }
