@@ -1,7 +1,7 @@
 {
-  "version": "0.6.63",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.63/Sierolat-0.6.63.exe",
+  "version": "0.6.64",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.64/Sierolat-0.6.64.exe",
   "note": [
-    "Un piano cancellato non porta piu' via con se' gli ordini che copriva"
+    "Il permeato che torna nel siero conta come siero, e si vede quanto ne resta"
   ]
 }
