@@ -1,7 +1,7 @@
 {
-  "version": "0.6.54",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.54/Sierolat-0.6.54.exe",
+  "version": "0.6.55",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.55/Sierolat-0.6.55.exe",
   "note": [
-    "La nota dell'ordine si legge dall'elenco, non solo aprendolo"
+    "26.100 non e' piu' 3, la data vuole i suoi chili, e i separatori ci sono ovunque"
   ]
 }
