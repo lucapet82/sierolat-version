@@ -1,7 +1,7 @@
 {
-  "version": "0.6.58",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.58/Sierolat-0.6.58.exe",
+  "version": "0.6.59",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.59/Sierolat-0.6.59.exe",
   "note": [
-    "La capacita' produttiva dice da sola che e' quella in ingresso"
+    "Il cestino nell'elenco prodotti, che sa cosa non deve cancellare"
   ]
 }
