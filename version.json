@@ -1,7 +1,7 @@
 {
-  "version": "0.6.67",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.67/Sierolat-0.6.67.exe",
+  "version": "0.6.68",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.68/Sierolat-0.6.68.exe",
   "note": [
-    "Un ordine trova la sua produzione anche sull'altro essiccatore, e i guasti si vedono"
+    "L'acqua di processo si calcola, e ogni prodotto sa quanto siero gli costa"
   ]
 }
