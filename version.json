@@ -1,7 +1,7 @@
 {
-  "version": "0.6.72",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.72/Sierolat-0.6.72.exe",
+  "version": "0.6.73",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.73/Sierolat-0.6.73.exe",
   "note": [
-    "I prodotti smettono di sparire dal piano: erano quattro cause, non una"
+    "La griglia si legge in orizzontale, e i campi dicono da soli quali sono obbligatori"
   ]
 }
