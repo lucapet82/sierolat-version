@@ -1,7 +1,7 @@
 {
-  "version": "0.6.70",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.70/Sierolat-0.6.70.exe",
+  "version": "0.6.71",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.71/Sierolat-0.6.71.exe",
   "note": [
-    "Un recupero produce l'articolo che recupera, quindi puo' coprirne l'ordine"
+    "Il monte ore in una riga per impianto, e lo spazio torna alla tabella"
   ]
 }
