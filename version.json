@@ -1,7 +1,7 @@
 {
-  "version": "0.6.74",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.74/Sierolat-0.6.74.exe",
+  "version": "0.6.75",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.75/Sierolat-0.6.75.exe",
   "note": [
-    "Il recupero si porta a piano da dove si programma, e il magazzino si scala da solo"
+    "Il magazzino recuperi pesa polvere, il piano pesa prodotto finito: adesso si parlano"
   ]
 }
