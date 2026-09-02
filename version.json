@@ -1,7 +1,7 @@
 {
-  "version": "0.6.84",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.84/Sierolat-0.6.84.exe",
+  "version": "0.6.85",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.85/Sierolat-0.6.85.exe",
   "note": [
-    "La simulazione divide una fase fra gli impianti sostitutivi, e conta le ore di ognuno"
+    "Il monte ore torna a dire monte, impegnate e residue, in due righe per impianto"
   ]
 }
