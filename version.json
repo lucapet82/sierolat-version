@@ -1,7 +1,7 @@
 {
-  "version": "0.6.81",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.81/Sierolat-0.6.81.exe",
+  "version": "0.6.82",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.82/Sierolat-0.6.82.exe",
   "note": [
-    "La tendina della fase si legge, gli ordini si chiudono da dentro, e l'acqua in processo sta fra le materie prime"
+    "L'acqua e' un ingrediente: i moltiplicatori si spengono, e le etichette dicono cosa fa la massa"
   ]
 }
