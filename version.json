@@ -1,7 +1,7 @@
 {
-  "version": "0.6.87",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.87/Sierolat-0.6.87.exe",
+  "version": "0.6.88",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.88/Sierolat-0.6.88.exe",
   "note": [
-    "Il magazzino recuperi torna a rispondere, e i fermi ricorrenti si caricano solo se richiesti"
+    "La simulazione dice il costo di ogni prodotto, e da dove viene"
   ]
 }
