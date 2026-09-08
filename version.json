@@ -1,7 +1,7 @@
 {
-  "version": "0.6.90",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.90/Sierolat-0.6.90.exe",
+  "version": "0.6.91",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.91/Sierolat-0.6.91.exe",
   "note": [
-    "La riga dice quanto viene dal siero, quanto dal recupero e il totale prodotto"
+    "Il piano confermato non si riscrive pi\u00f9: riaprirlo in bozza ne fa una revisione"
   ]
 }
