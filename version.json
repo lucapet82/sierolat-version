@@ -1,7 +1,7 @@
 {
-  "version": "0.6.100",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.100/Sierolat-0.6.100.exe",
+  "version": "0.6.101",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.101/Sierolat-0.6.101.exe",
   "note": [
-    "Il budget non scala le settimane del suo periodo, \u00abva a magazzino\u00bb c'\u00e8 anche senza ordini, e il permeato va in miscela col siero"
+    "La produzione si aggancia agli ordini anche sull'altra lavorazione, sulla ricetta scelta e quando la partita \u00e8 divisa"
   ]
 }
