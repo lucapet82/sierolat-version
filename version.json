@@ -1,7 +1,7 @@
 {
-  "version": "0.6.101",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.101/Sierolat-0.6.101.exe",
+  "version": "0.6.102",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.102/Sierolat-0.6.102.exe",
   "note": [
-    "La produzione si aggancia agli ordini anche sull'altra lavorazione, sulla ricetta scelta e quando la partita \u00e8 divisa"
+    "Il budget si vede negli Ordinativi: \u00abA budget\u00bb accanto a \u00abPianificato\u00bb, cos\u00ec un articolo che sta solo nel budget non sembra perso"
   ]
 }
