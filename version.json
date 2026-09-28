@@ -1,7 +1,7 @@
 {
-  "version": "0.6.106",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.106/Sierolat-0.6.106.exe",
+  "version": "0.6.107",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.107/Sierolat-0.6.107.exe",
   "note": [
-    "Anomalie nel foglio dei reparti, impianti liberi e commenti che non spariscono dal PDF"
+    "Budget o settimana lo dice il tipo, e un budget sceglie da quale piano attingere ordini, lotti e rimanenze"
   ]
 }
