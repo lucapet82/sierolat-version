@@ -1,7 +1,7 @@
 {
-  "version": "0.6.111",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.111/Sierolat-0.6.111.exe",
+  "version": "0.6.112",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.112/Sierolat-0.6.112.exe",
   "note": [
-    "Anche la settimana chiede da quale piano attingere, come il budget"
+    "Prezzo e costo si scrivono sull'ordinativo e fanno l'utile, ogni produzione dice se va a un ordine o a magazzino, e la dashboard si legge a elenco"
   ]
 }
