@@ -1,7 +1,7 @@
 {
-  "version": "0.6.113",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.113/Sierolat-0.6.113.exe",
+  "version": "0.6.114",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.114/Sierolat-0.6.114.exe",
   "note": [
-    "Il piano dice quanto va agli ordini e quanto a magazzino, anche sommando i piani prima, e i guasti si vedono accanto al monte ore e si aggiornano da soli"
+    "Il foglio dei reparti dice a quali clienti va ogni produzione e quanto va a magazzino"
   ]
 }
