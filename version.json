@@ -1,7 +1,7 @@
 {
-  "version": "0.6.112",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.112/Sierolat-0.6.112.exe",
+  "version": "0.6.113",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.113/Sierolat-0.6.113.exe",
   "note": [
-    "Prezzo e costo si scrivono sull'ordinativo e fanno l'utile, ogni produzione dice se va a un ordine o a magazzino, e la dashboard si legge a elenco"
+    "Il piano dice quanto va agli ordini e quanto a magazzino, anche sommando i piani prima, e i guasti si vedono accanto al monte ore e si aggiornano da soli"
   ]
 }
