@@ -1,7 +1,7 @@
 {
-  "version": "0.6.114",
-  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.114/Sierolat-0.6.114.exe",
+  "version": "0.6.115",
+  "url": "https://github.com/lucapet82/sierolat-version/releases/download/v0.6.115/Sierolat-0.6.115.exe",
   "note": [
-    "Il foglio dei reparti dice a quali clienti va ogni produzione e quanto va a magazzino"
+    "Il costo del conto economico si scrive su ogni produzione, in euro al kg, e le distinte restano solo come ricognizione"
   ]
 }
